@@ -19,13 +19,13 @@ export default function App() {
         Kgomotso Salman <
         /a>{" "}
         and is { " " } <
-        a href = "https://github.com/wecodeschool/react-weather-app"
+        a href = "https://github.com/KgomotsoSalman/react-weather-app"
         target = "_blank"
         rel = "noopener noreferrer" >
         open - sourced on GitHub <
         /a>{" "}
         and { " " } <
-        a href = "https://suspicious-beaver-111c4d.netlify.com/"
+        a href = "https://majestic-clafoutis-568c6f.netlify.app/"
         target = "_blank"
         rel = "noopener noreferrer" >
         hosted on Netlify <
